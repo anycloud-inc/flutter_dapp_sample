@@ -1,0 +1,9 @@
+{
+  "name": "signature_verification",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eth-sig-util": "^3.0.1"
+  }
+}
